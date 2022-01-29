@@ -17,7 +17,13 @@
     //echo has no return value but print has 1 return value
     // multiple parameters in echo , single argumrnt in print
     //echo is faster then print
-    
+
+    //another type  of out put showing
+    echo <<< MYDATA
+    THIS IS ANOTHER OUTPUT SHOWING 
+    BUT NOT USEFUL THIS.
+MYDATA;    
+
     
     
     
